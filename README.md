@@ -64,4 +64,4 @@ There are several ways in which this project can be extended or improved:
 
 ## Credits
 
-This project was developed by [Your Name]. The Voice Dataset used in this project is available on [Kaggle](https://www.kaggle.com/primaryobjects/voicegender).
+This project was developed by Parth Kalkar. The Voice Dataset used in this project is available on [Kaggle](https://www.kaggle.com/primaryobjects/voicegender).
